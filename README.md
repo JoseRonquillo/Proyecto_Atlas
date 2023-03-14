@@ -7,6 +7,7 @@ Para programar en python se pueden utilizar diversos entornos de desarrollo como
 
 1. Pycharm
    -jetbrains.com/es-es/pycharm/
+    -jetbrains.com/es-es/pycharm/features/
 2. Visual studio code
    -code.visualstudio.com/
 3. IDLE
