@@ -6,9 +6,9 @@ Python es un lenguaje de alto nivel de programación interpretado cuya filosofí
 Para programar en python se pueden utilizar diversos entornos de desarrollo como por ejemplo:
 
 1. Pycharm
-   -jetbrains.com/es-es/pycharm/
-    -jetbrains.com/es-es/pycharm/features/
+   - jetbrains.com/es-es/pycharm/
+    - jetbrains.com/es-es/pycharm/features/
 2. Visual studio code
-   -code.visualstudio.com/
+   - code.visualstudio.com/
 3. IDLE
-   -docs.python.org/es/3/library/idle.html
+   - docs.python.org/es/3/library/idle.html
